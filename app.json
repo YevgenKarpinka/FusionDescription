@@ -1,0 +1,26 @@
+{
+  "id": "81fac57e-8942-42aa-9ec3-746a6ed9b972",
+  "name": "Fusion Description",
+  "publisher": "TComTech publisher",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.35916.0",
+  "application": "14.5.35970.0",
+  "target": "Extension",
+  "showMyCode": true,
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50149
+    }
+  ]
+}
